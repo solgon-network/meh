@@ -4,4 +4,12 @@ description: Setting Up Your KaliPixel
 
 # First Time Set Up
 
-When your first breaking into your new Kali NetHunter image on your new KaliPixel there are a couple things you want to do before you start hunting.
+There are a couple tasks and initial set ups that you want to complete when you are first breaking into your new NetHunter image on your KaliPixel. It would behoove you to follow the next couple steps **exactly** how they are outlined to get the best experience with your KaliPixel.
+
+#### After updating the NetHunter app through the NetHunter Store app open up the app and grant all the permissions
+
+![](.gitbook/assets/nh\_install\_permission\_location.png) ![](.gitbook/assets/nh\_install\_permission\_nh\_shell.png) ![](.gitbook/assets/nh\_install\_permission\_shell\_commands.png) ![](.gitbook/assets/nh\_install\_permission\_storage.png)
+
+#### After accepting those permissions you will then be able to grant NetHunter Superuser Access through the Magisk Pop-up.
+
+![](.gitbook/assets/nh\_install\_permission\_superuser.png)

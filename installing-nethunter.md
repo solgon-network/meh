@@ -28,6 +28,8 @@ In conjunction with installing the main NetHunter applications, using this metho
 
 {% endhint %}
 
-![](.gitbook/assets/Screenshot\_20220213-073802.png)
+![Make Sure You Complete The Reboot Before Proceeding](.gitbook/assets/Screenshot\_20220213-073802.png)
 
-#### This is the part where you look up from the work your actually suppose to be doing and say, "Holy sh\*t . It actually worked...".
+{% hint style="danger" %}
+## Before you open the NetHunter app for the first time, open up the NetHunter Store app and UPDATE the main NetHunter app first. This is a very important step and will save you a world of headache later on.
+{% endhint %}

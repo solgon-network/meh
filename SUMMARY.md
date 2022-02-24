@@ -32,3 +32,7 @@
 
 * [Installing NetHunter](installing-nethunter.md)
 * [First Time Set Up](first-time-set-up.md)
+
+## Final Touch Up
+
+* [Pages With Initial Set Up](final-touch-up/pages-with-initial-set-up.md)
