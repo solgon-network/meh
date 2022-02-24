@@ -36,3 +36,9 @@
 ## Final Touch Up
 
 * [Pages With Initial Set Up](final-touch-up/pages-with-initial-set-up.md)
+
+***
+
+* [Updating Your KaliPixel](updating-your-kalipixel.md)
+* [Setting Up HID](setting-up-hid.md)
+* [Ending Part 1](ending-part-1.md)

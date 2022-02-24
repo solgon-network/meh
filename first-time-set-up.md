@@ -13,3 +13,17 @@ There are a couple tasks and initial set ups that you want to complete when you 
 #### After accepting those permissions you will then be able to grant NetHunter Superuser Access through the Magisk Pop-up.
 
 ![](.gitbook/assets/nh\_install\_permission\_superuser.png)
+
+Open up the side menu and click on the Kali Chroot Manager.
+
+![](.gitbook/assets/nh\_kali\_chroot\_manager.png)
+
+&#x20;Then simply click on 'START KALI CHROOT'.
+
+![](.gitbook/assets/nh\_chroot\_up.png)
+
+### Your Kali Chroot should now be up and running!
+
+{% hint style="warning" %}
+We would recommended stopping your Kali Chroot if you are not actively using it for obvious security reasons.
+{% endhint %}
